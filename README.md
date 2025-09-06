@@ -1,28 +1,29 @@
 👋Hello, I’m Kanishka Bisht
 
-🎓 BCA Student | Artificial Intelligence & Data Science Enthusiast | Future Innovator
 
-I am a passionate learner pursuing BCA with specialization in Artificial Intelligence & Data Science (AI&DS).
-With a strong foundation in programming, algorithms, data-driven problem-solving, and AI/ML applications, I am constantly building projects that merge creativity with technology.
+Aspiring AI & Data Science professional with a strong academic foundation and enthusiasm for applying intelligent technologies to real-world scenarios.With a strong foundation in programming, algorithms, data-driven problem-solving, and AI/ML applications, I am constantly building projects that merge creativity with technology.
 
 My vision is to leverage AI & Data Science to solve real-world problems, especially in areas like digital learning, healthcare, business intelligence, and automation.
 
+Eager to pursue internship opportunities to expand knowledge and contribute effectively.
+
 -------------------------------------------------
-🚀 About Me
+📍Location
 
-🔹 Currently pursuing BCA (AI&DS)
+.Dehradun, Uttarakhand, India, 248001
 
-🔹 Skilled in Python, SQL, C, C++, HTML/CSS, JavaScript
+-------------------------------------------------
+☎️Contact
 
-🔹 Hands-on experience with Machine Learning, Data Structures & Algorithms, Databases, Cloud Computing, and Operating Systems
+Email: bishtkanishka05@gmail.com
 
-🔹 Interested in Generative AI, Data Visualization, and Data Science 
+-----------------------------------------------
+🎓Education
 
-🔹 Strong analytical mindset with an inclination toward research-driven learning
+Bachelor of Computer Science(AI & DS) from Graphic Era Hill University, Dehradun, Uttarakhand 
+Expected Graduation:June 2027
 
-
-
----
+------------------------------------------------
 
 💻 Tech Stack
 
@@ -38,7 +39,24 @@ Tools & Platforms: Git/GitHub, Jupyter Notebook, Google Colab, VS Code, Power BI
 
 Concepts: Data Structures, Algorithms, OS, DBMS, Cloud Computing, Software Engineering
 
---------------------------------------------------------------
+-------------------------------------------------
+🚀 Projects
+
+
+-------------------------------------------------
+🏆Certifications
+
+
+-----------------------------------------------
+💪Strengths
+
+.Quick learner with a curious mind.
+
+.Good soft skills.
+
+.Good Problem-solving abilities.
+
+---------------------------------------------
 🎯 Career Goals
 
 To collaborate with forward-thinking organizations where I can apply my skills in AI, Data Science, and Software Development to create impactful, scalable solutions.
